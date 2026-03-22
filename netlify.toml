@@ -1,0 +1,19 @@
+[build]
+publish = "Services/netlify-api/site"
+
+[functions]
+directory = "Services/netlify-api/functions"
+
+[[headers]]
+for = "/dataset-metadata.json"
+
+  [headers.values]
+  Cache-Control = "no-cache, no-store, must-revalidate"
+  Content-Type = "application/json; charset=utf-8"
+
+[[headers]]
+for = "/shelters.sqlite"
+
+  [headers.values]
+  Cache-Control = "public, max-age=300"
+  Content-Type = "application/octet-stream"

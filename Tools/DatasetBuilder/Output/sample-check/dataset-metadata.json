@@ -1,0 +1,11 @@
+{
+  "buildNumber" : 1,
+  "checksum" : "7f440c90d474db47c7c1fb8f919a3b30e1a6ab7f8f8ab3381030da9f18bdf524",
+  "datasetVersion" : "2026.03.13-dev-sample.1",
+  "downloadURL" : "http:\/\/127.0.0.1:8000\/shelters.sqlite",
+  "fileSize" : 167936,
+  "minimumClientVersion" : "1.0.0",
+  "publishedAt" : "2026-03-13T08:00:00.000Z",
+  "recordCount" : 24,
+  "schemaVersion" : 1
+}

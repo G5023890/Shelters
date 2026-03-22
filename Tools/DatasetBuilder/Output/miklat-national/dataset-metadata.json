@@ -1,0 +1,11 @@
+{
+  "buildNumber" : 1,
+  "checksum" : "52d108fdc94d50bc89d1d568a6187c45e19075f75df0f4911a33b06d07c6997d",
+  "datasetVersion" : "miklat-national-v1-20260319T084439Z",
+  "downloadURL" : "http:\/\/127.0.0.1:8000\/shelters.sqlite",
+  "fileSize" : 4472832,
+  "minimumClientVersion" : "1.0.0",
+  "publishedAt" : "2026-03-19T08:44:39.799Z",
+  "recordCount" : 4637,
+  "schemaVersion" : 2
+}

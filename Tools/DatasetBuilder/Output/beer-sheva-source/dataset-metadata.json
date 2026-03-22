@@ -1,0 +1,11 @@
+{
+  "buildNumber" : 1,
+  "checksum" : "2da0334049ebbd5b972833b8525a953de113a1a695e1b502b79b4c8243265051",
+  "datasetVersion" : "beer-sheva-shelters-20260308T011018Z",
+  "downloadURL" : "http:\/\/127.0.0.1:8000\/shelters.sqlite",
+  "fileSize" : 368640,
+  "minimumClientVersion" : "1.0.0",
+  "publishedAt" : "2026-03-08T01:10:18.941Z",
+  "recordCount" : 262,
+  "schemaVersion" : 1
+}

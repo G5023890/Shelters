@@ -1,0 +1,11 @@
+{
+  "buildNumber" : 1,
+  "checksum" : "6e3379baeb11c599e48e8f0afe2b4524006986d220181922cc31d0539a64ae7b",
+  "datasetVersion" : "petah-tikva-official-v1-20260312T103531Z",
+  "downloadURL" : "http:\/\/127.0.0.1:8000\/shelters.sqlite",
+  "fileSize" : 348160,
+  "minimumClientVersion" : "1.0.0",
+  "publishedAt" : "2026-03-12T10:35:31.790Z",
+  "recordCount" : 214,
+  "schemaVersion" : 2
+}

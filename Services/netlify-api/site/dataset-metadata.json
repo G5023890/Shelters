@@ -1,0 +1,11 @@
+{
+  "buildNumber": 1,
+  "checksum": "bfc5a0a38e17a99ab480e3976ca02b47b009df4943bab779a60dd595a428c306",
+  "datasetVersion": "israel-preview-v1-20260315T191818Z",
+  "downloadURL": "https://shelters-isr.netlify.app/shelters.sqlite",
+  "fileSize": 4689920,
+  "minimumClientVersion": "1.0.0",
+  "publishedAt": "2026-03-15T19:18:18.758Z",
+  "recordCount": 4910,
+  "schemaVersion": 2
+}

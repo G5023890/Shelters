@@ -1,0 +1,633 @@
+{
+  "cases" : [
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים; עבור: הנחלים 66,68",
+          "objectLat" : 31.77532,
+          "objectLon" : 35.28844,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2698",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77502,
+          "objectLon" : 35.28831,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2862",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "01354cca-0ae3-51b3-ac7e-58dad857faf1__d9ea1463-a981-56c0-9ac0-6e4d5001352a",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים; עבור: הנחלים 162,168,170",
+          "objectLat" : 31.77534,
+          "objectLon" : 35.2885,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2709",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77527,
+          "objectLon" : 35.2882,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2867",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "0207b107-77b2-54e1-b591-17ca9734cbd9__34b850cc-64ad-5219-a27b-c8c6b04631c6",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים; עבור: הנחלים 164,166",
+          "objectLat" : 31.77557,
+          "objectLon" : 35.28832,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2708",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77527,
+          "objectLon" : 35.2882,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2867",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "0207b107-77b2-54e1-b591-17ca9734cbd9__ec1e9eb0-8a4d-57f1-9929-40e282942ae8",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר בלפור",
+          "objectLat" : 32.06706614,
+          "objectLon" : 34.77284228,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-160",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        },
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר בלפור",
+          "objectLat" : 32.06734155,
+          "objectLon" : 34.77258503,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-2165",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "0fba8e0d-edfe-5979-ba08-dfce8f47ee70__a3eb6fd6-9387-5e1a-9d0e-e823d5b226a3",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר הגליל",
+          "objectLat" : 32.05076112,
+          "objectLon" : 34.79594845,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-2125",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        },
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר הגליל",
+          "objectLat" : 32.05078031,
+          "objectLon" : 34.79557302,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-288",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "1a298675-efe2-5061-8668-0be8e60a8f0b__c5835539-9ed6-5ba9-a83b-1a69edc66252",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77536,
+          "objectLon" : 35.28875,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2628",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77535,
+          "objectLon" : 35.28837,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2636",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "1e4d7ba2-44e5-5eac-8ec3-3b13f6d28aeb__6dd37881-2d95-5533-ba87-70552f697c58",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה; עבור: העוגב 10-12, העוגב 14",
+          "objectLat" : 31.77525,
+          "objectLon" : 35.28851,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2619",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77536,
+          "objectLon" : 35.28875,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2628",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "1e4d7ba2-44e5-5eac-8ec3-3b13f6d28aeb__fa430c0f-1ab4-5b02-9cc1-b2383ca55615",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77549,
+          "objectLon" : 35.28887,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2669",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77573,
+          "objectLon" : 35.28876,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2846",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "2ec56d67-2dc5-5e44-aacf-9249d5ce2bf3__5833f4b3-4c6e-56ff-a08f-7e8d812611d1",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר עירוני ה",
+          "objectLat" : 32.09527957,
+          "objectLon" : 34.77482502,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-141",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        },
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר עירוני ה",
+          "objectLat" : 32.09524307,
+          "objectLon" : 34.77443699,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-1960",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "40bd3533-d1ee-5271-aa5a-72b459a011f0__a9df6a4e-d804-5a9c-aa94-02aa72069088",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.793847,
+          "objectLon" : 35.201116,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:397",
+          "sourceName" : "jerusalem-public-shelters"
+        },
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.793619,
+          "objectLon" : 35.20131,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:398",
+          "sourceName" : "jerusalem-public-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "4a3b1727-e875-5e92-b942-cb432f2bdfb0__5ab2c881-524e-50bb-84b1-c283707b4862",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.793619,
+          "objectLon" : 35.20131,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:398",
+          "sourceName" : "jerusalem-public-shelters"
+        },
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.79334,
+          "objectLon" : 35.201512,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:399",
+          "sourceName" : "jerusalem-public-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "4a3b1727-e875-5e92-b942-cb432f2bdfb0__7a1ba98e-6ce8-595d-99c4-e19a9e403928",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר גבריאלי",
+          "objectLat" : 32.07510913,
+          "objectLon" : 34.77736812,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-2169",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        },
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר גבריאלי",
+          "objectLat" : 32.07485694,
+          "objectLon" : 34.7775744,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-40",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "4b97a663-6c67-5050-b99a-4650ee260439__b8aec26f-5adf-5a47-8b70-708ab2ac1929",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77549,
+          "objectLon" : 35.28833,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2676",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77572,
+          "objectLon" : 35.28826,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2683",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "4d41ae8a-383e-5af0-bade-2feb4786d3d4__5e0ecce1-3ae7-57f8-805a-e259ee5fce94",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77538,
+          "objectLon" : 35.2888,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2860",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77568,
+          "objectLon" : 35.28879,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2870",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "534029f1-6ae9-50e7-8084-ed01d7d083a4__674e96c2-ee73-5ce5-999f-bb1ed3dd5493",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77538,
+          "objectLon" : 35.2888,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2860",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.7753,
+          "objectLon" : 35.28842,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2869",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "534029f1-6ae9-50e7-8084-ed01d7d083a4__8874b9a9-2b8d-5a60-bad6-2bf6ef5b6041",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים; עבור: הנחלים 28,30",
+          "objectLat" : 31.77539,
+          "objectLon" : 35.28903,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2690",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77538,
+          "objectLon" : 35.2888,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2860",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "534029f1-6ae9-50e7-8084-ed01d7d083a4__9473b032-82f7-5c4b-becd-27c349c7804b",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77549,
+          "objectLon" : 35.28887,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2669",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77583,
+          "objectLon" : 35.28874,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2844",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "5833f4b3-4c6e-56ff-a08f-7e8d812611d1__a8139533-ead8-592c-be30-2eb7d9bc89dc",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.794111,
+          "objectLon" : 35.200922,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:396",
+          "sourceName" : "jerusalem-public-shelters"
+        },
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.793847,
+          "objectLon" : 35.201116,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:397",
+          "sourceName" : "jerusalem-public-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "5ab2c881-524e-50bb-84b1-c283707b4862__87885701-7a1b-50a5-837c-4dea69099776",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת מגדים; עבור: פרי מגדים 31,33,35,37",
+          "objectLat" : 31.77562,
+          "objectLon" : 35.28873,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2938",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת מגדים",
+          "objectLat" : 31.77582,
+          "objectLon" : 35.28883,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2972",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "5f5871b9-f794-5c43-831d-18945ff3cc8e__b8c71e1a-3a46-59ce-a2d8-6cf38c7b2710",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר חסן ערפה",
+          "objectLat" : 32.04637534,
+          "objectLon" : 34.74793705,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-2184",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        },
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר חסן ערפה",
+          "objectLat" : 32.04648468,
+          "objectLon" : 34.74775561,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-261",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "7955a5ec-49e2-537b-bcf8-7c7e08d9ab4d__f4564c6a-6080-5249-8d8d-cf560fc60366",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כיכר יהלום",
+          "objectLat" : 31.77513,
+          "objectLon" : 35.28902,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2812",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כיכר יהלום; עבור: כיכר יהלום 18,20,22,24",
+          "objectLat" : 31.77505,
+          "objectLon" : 35.28869,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2818",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "ab01754b-64e3-5ca3-8a18-b968a629fb21__db1b6262-0f01-54ab-b677-a08eec1f5e28",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר בעש\"ט",
+          "objectLat" : 32.04853948,
+          "objectLon" : 34.80609395,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-2129",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        },
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר בעש\"ט",
+          "objectLat" : 32.0483804,
+          "objectLon" : 34.80623668,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-282",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "b9c28335-cff2-5d24-9a3b-6417fb23dd5a__ee3a7cb8-874c-5204-97c1-050e7266c314",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר יחד",
+          "objectLat" : 32.04673524,
+          "objectLon" : 34.79562967,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-120",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        },
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר יחד",
+          "objectLat" : 32.04671339,
+          "objectLon" : 34.79588329,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-199",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "bc2c0f93-3517-54d5-826a-0bbe1ab9b904__f6ed7890-b6d4-5921-8b97-8e3a500e3b14",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 815",
+          "objectLat" : 31.762066,
+          "objectLon" : 35.173923,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:324",
+          "sourceName" : "jerusalem-public-shelters"
+        },
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 815",
+          "objectLat" : 31.761918,
+          "objectLon" : 35.173759,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:395",
+          "sourceName" : "jerusalem-public-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "c1d82408-65a6-50fd-ba7b-29b298ddece7__d6660886-d8c6-503b-b7db-fe57596d52d1",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר גיבורי ישראל",
+          "objectLat" : 32.06021315,
+          "objectLon" : 34.79615911,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-2138",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        },
+        {
+          "city" : "Tel Aviv",
+          "displayName" : "בית ספר גיבורי ישראל",
+          "objectLat" : 32.06004831,
+          "objectLon" : 34.7964764,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "shelters:592-29",
+          "sourceName" : "tel-aviv-municipal-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "c53ccee8-129a-5127-b972-d1175f2f0c8e__d7c2f4d7-221c-542e-98df-1a179c9d3508",
+      "reason" : "near_match_requires_review"
+    }
+  ],
+  "generatedAt" : "2026-03-19T15:45:18.831Z",
+  "mergeRuleVersion" : "v1",
+  "mergedCanonicalCount" : 5647,
+  "reviewCaseCount" : 25
+}

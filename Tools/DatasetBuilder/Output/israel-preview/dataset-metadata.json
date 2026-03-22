@@ -1,0 +1,11 @@
+{
+  "buildNumber" : 1,
+  "checksum" : "fceb8579e4ed922b6cf90db752f39ae0432be63d671c90d673cb26c91a4179dc",
+  "datasetVersion" : "israel-preview-v1-20260319T154518Z",
+  "downloadURL" : "http:\/\/127.0.0.1:8000\/shelters.sqlite",
+  "fileSize" : 5246976,
+  "minimumClientVersion" : "1.0.0",
+  "publishedAt" : "2026-03-19T15:45:18.831Z",
+  "recordCount" : 5647,
+  "schemaVersion" : 2
+}

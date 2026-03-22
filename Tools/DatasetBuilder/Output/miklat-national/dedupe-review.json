@@ -1,0 +1,333 @@
+{
+  "cases" : [
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים; עבור: הנחלים 66,68",
+          "objectLat" : 31.77532,
+          "objectLon" : 35.28844,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2698",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77502,
+          "objectLon" : 35.28831,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2862",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "01354cca-0ae3-51b3-ac7e-58dad857faf1__d9ea1463-a981-56c0-9ac0-6e4d5001352a",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים; עבור: הנחלים 162,168,170",
+          "objectLat" : 31.77534,
+          "objectLon" : 35.2885,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2709",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77527,
+          "objectLon" : 35.2882,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2867",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "0207b107-77b2-54e1-b591-17ca9734cbd9__34b850cc-64ad-5219-a27b-c8c6b04631c6",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים; עבור: הנחלים 164,166",
+          "objectLat" : 31.77557,
+          "objectLon" : 35.28832,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2708",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77527,
+          "objectLon" : 35.2882,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2867",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "0207b107-77b2-54e1-b591-17ca9734cbd9__ec1e9eb0-8a4d-57f1-9929-40e282942ae8",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77536,
+          "objectLon" : 35.28875,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2628",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77535,
+          "objectLon" : 35.28837,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2636",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "1e4d7ba2-44e5-5eac-8ec3-3b13f6d28aeb__6dd37881-2d95-5533-ba87-70552f697c58",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה; עבור: העוגב 10-12, העוגב 14",
+          "objectLat" : 31.77525,
+          "objectLon" : 35.28851,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2619",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77536,
+          "objectLon" : 35.28875,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2628",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "1e4d7ba2-44e5-5eac-8ec3-3b13f6d28aeb__fa430c0f-1ab4-5b02-9cc1-b2383ca55615",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77549,
+          "objectLon" : 35.28887,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2669",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77573,
+          "objectLon" : 35.28876,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2846",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "2ec56d67-2dc5-5e44-aacf-9249d5ce2bf3__5833f4b3-4c6e-56ff-a08f-7e8d812611d1",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77549,
+          "objectLon" : 35.28833,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2676",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77572,
+          "objectLon" : 35.28826,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2683",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "4d41ae8a-383e-5af0-bade-2feb4786d3d4__5e0ecce1-3ae7-57f8-805a-e259ee5fce94",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77538,
+          "objectLon" : 35.2888,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2860",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77568,
+          "objectLon" : 35.28879,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2870",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "534029f1-6ae9-50e7-8084-ed01d7d083a4__674e96c2-ee73-5ce5-999f-bb1ed3dd5493",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77538,
+          "objectLon" : 35.2888,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2860",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.7753,
+          "objectLon" : 35.28842,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2869",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "534029f1-6ae9-50e7-8084-ed01d7d083a4__8874b9a9-2b8d-5a60-bad6-2bf6ef5b6041",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים; עבור: הנחלים 28,30",
+          "objectLat" : 31.77539,
+          "objectLon" : 35.28903,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2690",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת הנחלים",
+          "objectLat" : 31.77538,
+          "objectLon" : 35.2888,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2860",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "534029f1-6ae9-50e7-8084-ed01d7d083a4__9473b032-82f7-5c4b-becd-27c349c7804b",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77549,
+          "objectLon" : 35.28887,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2669",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כלי נגינה",
+          "objectLat" : 31.77583,
+          "objectLon" : 35.28874,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2844",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "5833f4b3-4c6e-56ff-a08f-7e8d812611d1__a8139533-ead8-592c-be30-2eb7d9bc89dc",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת מגדים; עבור: פרי מגדים 31,33,35,37",
+          "objectLat" : 31.77562,
+          "objectLon" : 35.28873,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2938",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת מגדים",
+          "objectLat" : 31.77582,
+          "objectLon" : 35.28883,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2972",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "5f5871b9-f794-5c43-831d-18945ff3cc8e__b8c71e1a-3a46-59ce-a2d8-6cf38c7b2710",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כיכר יהלום",
+          "objectLat" : 31.77513,
+          "objectLon" : 35.28902,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2812",
+          "sourceName" : "miklat-national-shelters"
+        },
+        {
+          "city" : "Ma&#39;ale Adummim",
+          "displayName" : "שכונת כיכר יהלום; עבור: כיכר יהלום 18,20,22,24",
+          "objectLat" : 31.77505,
+          "objectLon" : 35.28869,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "miklat:mmewg5lm:2818",
+          "sourceName" : "miklat-national-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "ab01754b-64e3-5ca3-8a18-b968a629fb21__db1b6262-0f01-54ab-b677-a08eec1f5e28",
+      "reason" : "near_match_requires_review"
+    }
+  ],
+  "generatedAt" : "2026-03-19T08:44:39.799Z",
+  "mergeRuleVersion" : "v1",
+  "mergedCanonicalCount" : 4637,
+  "reviewCaseCount" : 13
+}

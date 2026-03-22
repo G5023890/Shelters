@@ -1,0 +1,9 @@
+{
+  "name": "shelters-netlify-api",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Minimal Netlify Functions-compatible backend for Shelters",
+  "dependencies": {
+    "@netlify/blobs": "^10.7.2"
+  }
+}

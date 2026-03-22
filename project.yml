@@ -1,0 +1,98 @@
+name: Shelters
+options:
+  bundleIdPrefix: com.grigorymordokhovich
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: 6.0
+    DEVELOPMENT_ASSET_PATHS: "\"\""
+    MARKETING_VERSION: 1.0.0
+    CURRENT_PROJECT_VERSION: 1
+schemes:
+  SheltersApp:
+    build:
+      targets:
+        SheltersApp: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets:
+        - SheltersKitTests
+targets:
+  SheltersKit:
+    type: framework
+    supportedDestinations:
+      - iOS
+      - macOS
+    deploymentTarget:
+      iOS: 18.0
+      macOS: 15.0
+    sources:
+      - path: App/Support
+      - path: Core
+      - path: Database
+      - path: Features
+      - path: Services
+        excludes:
+          - netlify-api/**
+      - path: Localization
+    resources:
+      - path: Resources/Localization
+    settings:
+      base:
+        PRODUCT_NAME: SheltersKit
+        PRODUCT_BUNDLE_IDENTIFIER: com.grigorymordokhovich.SheltersKit
+        GENERATE_INFOPLIST_FILE: YES
+        SKIP_INSTALL: YES
+        CODE_SIGNING_ALLOWED: NO
+        OTHER_LDFLAGS:
+          - $(inherited)
+          - -lsqlite3
+  SheltersApp:
+    type: application
+    supportedDestinations:
+      - iOS
+      - macOS
+    deploymentTarget:
+      iOS: 18.0
+      macOS: 15.0
+    sources:
+      - path: App/SheltersApp.swift
+    resources:
+      - path: Resources
+    dependencies:
+      - target: SheltersKit
+    settings:
+      base:
+        PRODUCT_NAME: Shelters
+        PRODUCT_BUNDLE_IDENTIFIER: com.grigorymordokhovich.Shelters
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_CFBundleShortVersionString: $(MARKETING_VERSION)
+        INFOPLIST_KEY_CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        INFOPLIST_KEY_CFBundleDisplayName: Shelters
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_NSLocationWhenInUseUsageDescription: Shelters uses your location to find the nearest protected place from the offline database.
+        INFOPLIST_KEY_NSLocationUsageDescription: Shelters uses your location to find the nearest protected place from the offline database.
+        LD_RUNPATH_SEARCH_PATHS:
+          - $(inherited)
+          - "@executable_path/../Frameworks"
+          - "@loader_path/../Frameworks"
+        CODE_SIGNING_ALLOWED: NO
+  SheltersKitTests:
+    type: bundle.unit-test
+    supportedDestinations:
+      - iOS
+      - macOS
+    deploymentTarget:
+      iOS: 18.0
+      macOS: 15.0
+    sources:
+      - path: Tests
+    dependencies:
+      - target: SheltersKit
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.grigorymordokhovich.SheltersKitTests
+        GENERATE_INFOPLIST_FILE: YES
+        CODE_SIGNING_ALLOWED: NO

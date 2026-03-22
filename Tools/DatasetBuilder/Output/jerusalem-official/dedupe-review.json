@@ -1,0 +1,108 @@
+{
+  "cases" : [
+    {
+      "candidates" : [
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.793847,
+          "objectLon" : 35.201116,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:397",
+          "sourceName" : "jerusalem-public-shelters"
+        },
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.793619,
+          "objectLon" : 35.20131,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:398",
+          "sourceName" : "jerusalem-public-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "4a3b1727-e875-5e92-b942-cb432f2bdfb0__5ab2c881-524e-50bb-84b1-c283707b4862",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.793619,
+          "objectLon" : 35.20131,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:398",
+          "sourceName" : "jerusalem-public-shelters"
+        },
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.79334,
+          "objectLon" : 35.201512,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:399",
+          "sourceName" : "jerusalem-public-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "4a3b1727-e875-5e92-b942-cb432f2bdfb0__7a1ba98e-6ce8-595d-99c4-e19a9e403928",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.794111,
+          "objectLon" : 35.200922,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:396",
+          "sourceName" : "jerusalem-public-shelters"
+        },
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 975",
+          "objectLat" : 31.793847,
+          "objectLon" : 35.201116,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:397",
+          "sourceName" : "jerusalem-public-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "5ab2c881-524e-50bb-84b1-c283707b4862__87885701-7a1b-50a5-837c-4dea69099776",
+      "reason" : "near_match_requires_review"
+    },
+    {
+      "candidates" : [
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 815",
+          "objectLat" : 31.762066,
+          "objectLon" : 35.173923,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:324",
+          "sourceName" : "jerusalem-public-shelters"
+        },
+        {
+          "city" : "Jerusalem",
+          "displayName" : "Public Shelter 815",
+          "objectLat" : 31.761918,
+          "objectLon" : 35.173759,
+          "placeType" : "public_shelter",
+          "sourceIdentifier" : "jerusalem-public-shelters:395",
+          "sourceName" : "jerusalem-public-shelters"
+        }
+      ],
+      "decision" : "review",
+      "id" : "c1d82408-65a6-50fd-ba7b-29b298ddece7__d6660886-d8c6-503b-b7db-fe57596d52d1",
+      "reason" : "near_match_requires_review"
+    }
+  ],
+  "generatedAt" : "2026-03-19T12:03:20.433Z",
+  "mergeRuleVersion" : "v1",
+  "mergedCanonicalCount" : 214,
+  "reviewCaseCount" : 4
+}

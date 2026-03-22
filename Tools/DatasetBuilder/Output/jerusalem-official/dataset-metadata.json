@@ -1,0 +1,11 @@
+{
+  "buildNumber" : 1,
+  "checksum" : "53d91ff0239f64d6b988af6d8f961fd55036f41500801e6b0167dc0a24038959",
+  "datasetVersion" : "jerusalem-official-v1-20260319T120320Z",
+  "downloadURL" : "http:\/\/127.0.0.1:8000\/shelters.sqlite",
+  "fileSize" : 331776,
+  "minimumClientVersion" : "1.0.0",
+  "publishedAt" : "2026-03-19T12:03:20.433Z",
+  "recordCount" : 214,
+  "schemaVersion" : 2
+}

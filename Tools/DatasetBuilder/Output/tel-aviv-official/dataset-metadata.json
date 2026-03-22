@@ -1,0 +1,11 @@
+{
+  "buildNumber" : 1,
+  "checksum" : "d005c782a187cd454f90d169f50442083c696fc9cf6641bf54c5314af3808e42",
+  "datasetVersion" : "tel-aviv-official-v1-20260319T120527Z",
+  "downloadURL" : "http:\/\/127.0.0.1:8000\/shelters.sqlite",
+  "fileSize" : 593920,
+  "minimumClientVersion" : "1.0.0",
+  "publishedAt" : "2026-03-19T12:05:27.278Z",
+  "recordCount" : 553,
+  "schemaVersion" : 2
+}
